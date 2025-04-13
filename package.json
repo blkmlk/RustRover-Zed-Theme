@@ -1,0 +1,26 @@
+{
+  "name": "rust-rover-zed-theme",
+  "displayName": "RustRover Dark",
+  "version": "1.0.0",
+  "description": "A dark theme inspired by RustRover's default dark theme",
+  "author": "Islam Bekbuzarov",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "./themes/rust-rover.json",
+  "keywords": [
+    "theme",
+    "dark",
+    "rustrover",
+    "intellij",
+    "idea"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blkmlk/RustRover-Zed-Theme"
+  },
+  "zed": {
+    "theme": true
+  },
+  "engines": {
+    "zed": "*"
+  }
+}

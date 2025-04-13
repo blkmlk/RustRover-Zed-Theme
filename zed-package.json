@@ -1,0 +1,13 @@
+{
+  "name": "rust-rover-zed-theme",
+  "displayName": "RustRover Dark",
+  "title": "RustRover Dark",
+  "description": "A dark theme inspired by RustRover's default dark theme",
+  "version": "1.0.0",
+  "themes": [
+    {
+      "name": "RustRover Dark",
+      "path": "./themes/rust-rover.json"
+    }
+  ]
+}

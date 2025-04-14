@@ -16,6 +16,7 @@
         "tab.inactive_background": "#242423",
         "editor.gutter.background": "#1a1b1d",
         "editor.foreground": "#bcbec3",
+        "terminal.foreground": "#c8cace",
         "panel.background": "#2b2d30",
         "accent": "#6897BB",
         "modified": "#6c8bd9",

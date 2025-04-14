@@ -1,5 +1,5 @@
 <h1 align="center">
-  RustRover Theme for Zed
+  RustRover Dark Theme for Zed
 </h1>
 <p align="center">
   A dark theme inspired by RustRover's default dark theme

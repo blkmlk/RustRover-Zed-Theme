@@ -1,7 +1,7 @@
 {
   "name": "rust-rover-dark-theme",
   "displayName": "RustRover Dark",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dark theme inspired by RustRover's default dark theme",
   "author": "Islam Bekbuzarov",
   "license": "SEE LICENSE IN LICENSE.md",

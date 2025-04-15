@@ -1,7 +1,7 @@
 id = "rust-rover-dark-theme"
 name = "RustRover Dark Theme"
-version = "1.0.2"
-schema_version = "1"
+version = "1.0.3"
+schema_version = 1
 authors = ["Islam Bekbuzarov <blkmlkss@gmail.com>"]
 description = "A dark theme inspired by RustRover's default dark theme"
 repository = "https://github.com/blkmlk/RustRover-Zed-Theme"

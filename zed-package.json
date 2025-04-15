@@ -3,7 +3,7 @@
   "displayName": "RustRover Dark",
   "title": "RustRover Dark",
   "description": "A dark theme inspired by RustRover's default dark theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "themes": [
     {
       "name": "RustRover Dark",
